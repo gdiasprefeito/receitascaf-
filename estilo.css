@@ -34,11 +34,11 @@ footer{
 
 }
 .linha {
-  border: none;
-  height: 1px;          
-  background-color: white;
-  margin: 20px 0;
-  }
+  border-top:#F1CEA5 solid ;
+  margin-bottom: 25px;
+  margin-top: 25px;
+}
+
 #aluno{ 
     color:#F1CEA5 ;
     font-size: 32px;
